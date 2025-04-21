@@ -1,0 +1,25 @@
+# Fichiers compilés Java
+*.class
+*.jar
+
+# Dossiers de build
+/target/
+/bin/
+/out/
+
+# Fichiers générés par l'IDE (ex: Eclipse, IntelliJ)
+.settings/
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+
+# Fichiers système (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# Fichiers logs ou temporaires
+*.log
+*.tmp
